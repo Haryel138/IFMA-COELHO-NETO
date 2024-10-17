@@ -1,0 +1,1 @@
+alert("Seja bem vindo ao site que lhe farar conhecer o IFMA como nunca!")
